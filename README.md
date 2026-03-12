@@ -2,7 +2,7 @@
 
 Does try location matter? Analysis of conversion probability and expected points by lateral try position in rugby union.
 
-Read the post: [Does Try Location Matter? I Looked at the Data.](https://github.com/tyler-martin-12/my-blog)
+Read the post: [Does Try Location Matter? I Looked at the Data.](https://tyler-alexander-martin.com/blog/post-002/)
 
 ## Scripts
 
